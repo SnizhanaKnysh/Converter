@@ -1,6 +1,6 @@
 package app;
 
-public class Main {
+public class ConverterWeight {
 
     private static final double CONV_K = 2.20462;
 
